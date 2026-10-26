@@ -1,4 +1,4 @@
-# Phase 1.2 — Understanding Tokens
+# Chapter02 — Understanding Tokens
 # Tokens — the language LLMs actually process
 
 Tokens are one of the most important concepts in AI engineering.
