@@ -1,4 +1,4 @@
-# Phase 1.1 — Understanding Large Language Models (LLMs)
+# Chapter01 — Understanding Large Language Models (LLMs)
 
 ## 1. What exactly is an LLM?
 
