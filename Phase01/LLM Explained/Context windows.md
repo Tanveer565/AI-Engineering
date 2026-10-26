@@ -1,4 +1,4 @@
-
+# Chapter03 — Understanding Context windows
 # Context windows — the model's working context
 
 Now imagine you're building a chatbot for a college.
